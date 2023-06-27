@@ -1,513 +1,257 @@
 SCHOOL NAME, MASCOT, ABBREVIATION, CONFERENCE, PRIMARY HEX COLOR, SECONDARY HEX COLOR, PRESTIGE, HOME STATE, PIPELINE STATES (separated by .);
-
-Estonia, Estonians, EST, Europe III, 0072CE, 000000, 15, CT, CT.MA.RI;
-
-Afghanistan, Afghans, AFGHAN, Middle East II, 000000, ED1B2E, 85, PA, PA.NY.NJ.DE.MD.DC;
-
-Aland Islands, Aland Islanders, ALAND, Europe III, FDD520, ED1B2E, 20, RI, RI.MA.NE;
-
-Albania, Albanians, ALB, Europe II, E41E20, 000000, 40, RI, RI.MA.NE;
-
-Algeria, Algerians, ALG, Africa I, 006233, D21034, 60, NJ, NJ.NY;
-
-American Samoa, American Samoans, ASAMOA, Oceania I, 041E42, FFFFFF, 85, NY, NY.NJ.PA;
-
-Andorra, Andorrans, ANDOR, Europe II,  FDD520, E4002B, 20, DC, DC.MD;
-
-Angola, Angolans, ANGOLA, Africa III, 000000, FFC72C, 65, NY, NY.NJ;
-
-Anguilla, Anguillans, ANGU, North America II, 041E42, B10202, 15, VT, VT.NH;
-
-Antarctica, Antarctic residents, ANTARC, North America I, 68ABE8, FFFFFF, 60, PA, PA.DE.MD.DC;
-
-Antigua and Barbuda, Antiguans or Barbudans, AB, North America I, CE1126, 000000, 55, MA, MA;
-
-Argentina, Argentinians, ARG, South America I, 74ACDF, FFFFFF, 90, NY, NY.NJ;
-
-Armenia, Armenians, ARMEN, Middle East II, F2A800, 0033A0, 55, VA, VA.DE;  
-
-Aruba, Arubans, ARUBA, North America II, 005BBB, FFD500, 55, CT, CT.MA;
-
-Australia, Australians, AUS, Oceania I, 00008B, FF0000, 95, PA, PA.DE.MD.DC;
-
-Austria, Austrians, AUSTR, Europe I, ED2939, FFFFFF, 25, NY, NY.PA; 
-
-Azerbaijan, Azeris, AZER, Middle East II, 00B934, ED2939, 15, FL, FL;
-
-The Bahamas, Bahamians, BAHA, North America II, 013C65, F6B000, 85, MA, MA.RI.ME;
-
-Bahrain, Bahrainis, BAH, Middle East II, CE1126, FFFFFF, 60, FL, FL;
-
-Bangladesh, Bangladeshis, BANG, Asia I, 1E4D2B, B10202, 75, SC, SC;
-
-Barbados, Barbadians, BARBAD, North America I, 002868, FFD500, 50, VA, VA;
-
-Belarus, Belarusians, BELAR, Europe II, C8313E, 4AA657, 15, PA, PA.OH.WV;
-
-Belgium, Belgians, BEL, Europe I, 000000, FAE042, 30, VA, VA;
-
-Belize, Belizeans, BELIZE, North America II, 041E42, B10202, 45, NY, NY;
-
-Benin, Beninois, BENIN, Africa III, FCD116, 008751, 20, GA, GA;
-
-Bermuda, Bermudians, BERMUD, North America II, 041E42, B10202, 35, KY, KY.OH;
-
-Bhutan, Bhutanese, BHUTAN, Asia II, F56600, FFC72A, 40, NC, NC;
-
-Bolivia, Bolivians, BOL, South America I, F9E300, D52B1E, 20, NC, NC.SC;
-
-Bonaire, Bonaireans, BONA, North America III, 002868, FFD500, 55, NC, NC.SC;
-
-Bosnia and Herzegovina, Bosnians, BOSH, Europe II, 002395, FECB00, 15, NC, NC;
-
-Botswana, Botswanans, BOTS, Africa II, 68ABE8, 000000, 85, VA, VA;
-
-British Indian Ocean Territory, BIOTs, BIOT, Asia II, 0736A7, FFFFFF, 15, NC, NC;
-
-Bouvet Island, Bouvet Islanders, BOUVET, Middle East II, EF2B2D, 002868, 30, IL, IL; 
-
-Brazil, Brazilians, BRAZIL, South America I, 009B3A, FEDF00, 95, IL, IL.WI;
-
-Brunei, Bruneians, BRUNEI, Asia II, FFCC33, AC1A2F, 45, IN, IN; 
-
-Bulgaria, Bulgarians, BUL, Europe II, 00966E, FFFFFF, 35, IN, IN;
-
-Burkina Faso, Burkinabes, BURK, Africa II, EF2B2D, FCD116, 80, MI, MI;
-
-Burma, Burmese, BURMA, Asia II, 62A70F, FEE123, 15, MI, MI.IN; 
-
-Burundi, Burundians, BURUND, Africa III, 62S70F, CE181E, 60, WI, WI.IL.MN;
-
-Cabo Verde, Cabo Verdeans, CABOV, Africa I, 003893, FFFFFF, 30, MN, MN.ND.SD;
-
-Cambodia, Cambodians, CAMBOD, Asia II, 002395, FF0000, 75, NE, NE.IA;
-
-Cameroon, Cameroonians, CAM, Africa I, FCD116, CE1126, 55, OH, OH;
-
-Canada, Canadians, CAN, North America I, FF0000, FFFFFF, 85, IN, IN.MI.IL;
-
-Cayman Islands, Caymanians, CAYMAN, North America III, 0000E2F, E4002B, 50, NJ, NJ;
-
-Central African Republic, Central Africans, CAR, Africa II, D21034, FFFFFF, 50, IA, IA;
-
-Chad, Chadians, CHAD, Africa II, FCD116, 002B7F, 45, PA, PA.OH; 
-
-Chile, Chileans, CHILE, South America I, D52B1E, 0039A6, 85, WI, WI;
-
-China, Chinese, CHINA, Asia I, DE2910, FFDE00, 95, MD, MD.DE.DC;
-
-Taiwan, Taiwanese, TAIWAN, Asia I, FE0000, 000095, 55, TN, TN;
-
-Christmas Island, Christmas Islanders, CHRIST, Oceania I, 0A5640, 0736A4, 20, MO, MO.IL;
-
-Cocos Islands, Cocos Islanders, COCOS, Oceania I, 0A5640, FFC72A, 45, OH, OH;
-
-Colombia, Colombians, COL, South America I, FCD116, 003893, 80, IN, IN;
-
-Comoros, Comorans, COM, Africa III, 006C35, FFFFFF, 25, NE, NE; 
-
-Congo, Congolese, CONGO, Africa III, FBDE4A, 009543, 75, TN, TN.KY;
-
-DR Congo, Congolese, DRC, Africa II, 007FFF, F7D618, 40, IN, IN;
-
-Cook Islands, Cook Islanders, COOK, Oceania I, 000E2F, FFFFFF, 50, OH, OH.KY;
-
-Costa Rica, Costa Ricans, COSTA, North America I, C31126, 002B7F, 80, KY, KY.TN;
-
-Croatia, Croatians, CRO, Europe I, FF0000, 171796, 35, OH, OH.KY; 
-
-Cuba, Cubans, CUBA, North America II, C31126, 002B7F, 60, KS, KS.NE;
-
-Curacao, Curacaoans, CURA, North America II, 002B7F, F9E814, 50, IL, IL; 
-
-Cyprus, Cypriots, CYPRUS, Middle East II, D57800, FFFFFF, 80, IL, IL;
-
-Czech Republic, Czechs, CZECH, Europe II, D7141A, 11457E, 85, IL, IL;
-
-Denmark, Danes, DEN, Europe I, C60C30, FFFFFF, 20, WV, WV.PA;
-
-Djibouti, Djiboutians, DJIB, Africa II, 68ABE8, 0A5640, 25, IN, IN;
-
-Dominica, Dominicans, DOM, North America III, 0A5640, C60C30, 25, TX, TX;
-
-Dominican Republic, Dominicans, DOMREP, North America I, C5050C, 005E8B, 45, IA, IA; 
-
-East Timor, Timorese, ETIMOR, Asia II, D80024, 000000, 35, KS, KS.MO;  
-
-Ecuador, Ecuadorians, ECU, South America I, FFE600, 0075AF, 25, KS, KS;
-
-Egypt, Egyptians, EGYPT, Africa I, 000000, D80024, 65, OK, OK.TX; 
-
-El Salvador, Salvadorans, SALVA, North America I, 0209FF, FFFFFF, 40, OK, OK;
-
-England, English, ENG, Europe I, C31124, FFFFFF, 40, TX, TX;
-
-Equatorial Guinea ,Equatorial Guineans, EQGUN, Africa III, 005CA9, 16A313, 70, TX, TX.OK;
-
-Eritrea, Eritreans, ERIT, Africa II, 16A313, 005CA9, 20, TX, TX;
-
-Eswatini, Swazis, ESWAT, Africa III, 000000, FFFFFF, 30, WV, WV.VA;
-
-Ethiopia, Ethiopians, ETH, Africa I, 16A313, 1C45C1, 35, TX, TX.NM;
-
-Falkland Islands, Falkland Islanders, FALK, South America I, 0736A4, B10202, 60, OK, OK;
-
-Fiji, Fijians, FIJI, Oceania I, 649FC9, 089C2D, 55, TX, TX; 
-
-Finland, Finnish, FIN, Europe II, 003580, FFFFFF, 45, TX, TX;
-
-France, French, FRA, Europe I, ED2939, 002395, 95, LA, LA;
-
-French Guiana, French Guianese, FGU, South America I, 0A5640, FFC72A, 35, LA, LA;
-
-French Polynesia, French Polynesians, FPOLY, Oceania I, E6251E, FFFFFF, 60, OR, OR; 
-
-Gabon, Gabonese, GABON, Africa I, 009E60, FCD116, 50, OR, OR; 
-
-The Gambia, Gambians, GAMBIA, Africa II, C51A1A, 06A010, 35, CO, CO;
-
-Georgia, Georgians, GEOR, Europe II, FF0000, FFFFFF, 50, UT, UT.WY.ID;
-
-Germany, Germans, GER, Europe I, 000000, DD0000, 90, AZ, AZ;
-
-Ghana, Ghanaians, GHA, Africa I, FCD116, CE1126, 45, AZ, AZ; 
-
-Gibraltar, Gibraltarians, GIBRAL, Europe III, E30707, FFFFFF, 50, CA, CA;
-
-Greece, Greeks, GRE, Europe I, 0D5EAF, FFFFFF, 45, CA, CA.HI;
-
-Greenland, Greenlanders, GREEN, North America II, D80024, FFFFFF, 80, WA, WA.AK;
-
-Grenada, Grenadians, GRENA, North America III, 0A5640, FFC72A, 35, WA, WA.AK;
-
-Guadeloupe, Guadeloupeens, GUADE, North America III, FFCD00, 000000, 30, CA, CA;
-
-Guam, Guamanians, GUAM, Oceania I, 034198, D80024, 80, HI, HI; 
-
-Guatemala, Guatemalans, GUATE, North America I, 4997D0, FFFFFF, 35, WA, WA.AK; 
-
-Guernsey, Channel Islanders, GUER, Europe III, D80024, FFCD00, 45, CA, CA;
-
-Guinea, Guineans, GUINEA, Africa III, FCD116, 009460, 35, FL, FL;
-
-Guinea Bissau, Bissau Guineans, GUIBIS, Africa II, FCD116, 009E49, 30, GA, GA;
-
-Guyana, Guyanese, GUYANA, South America I, 2FAB21, F7D930, 30, KY, KY.TN;
-
-Haiti, Haitians, HAITI, North America I, D20014, 0A328C, 30, MO, MO;
-
-Honduras, Hondurans, HOND, North America I, 0073CF, FFFFFF, 25, SC, SC;
-
-Hong Kong, Hong Kongers, KONG, Asia I, DE2910, FFFFFF, 60, TN, TN;
-
-Hungary, Hungarians, HUN, Europe II, 436F4F, CD2A3E, 70, TN, TN;
-
-Iceland, Icelanders, ICE, Europe II, 02529C, DC1E35, 55, AL, AL.MS;
-
-India, Indians, INDIA, Asia I, FF9933, 128807, 50, LA, LA.MS;
-
-Indonesia, Indonesians, INDO, Asia I, FF0000, FFFFFF, 25, MS, MS.AL;
-
-Palau, Palauans, PALAU, Middle East I, 4AADD6, FFDE00, 85, MS, MS.AL.LA; 
-
-Iraq, Iraqis, IRAQ, Middle East I, 007A3D, FFFFFF, 45, TX, TX;
-
-Iran, Iranians, IRAN, Middle East I, 239F40, DA0000, 90, FL, FL;
-
-Ireland, Irish, IRE, Europe II, 169B62, FF883E, 60, FL, FL;
-
-Isle of Man ,Manx, ISLE, Asia II, D00C27, FADF12, 55, ID, ID.MT;
-
-Israel, Israelis, ISRA, Middle East I, 0038B8, FFFFFF, 80, CO, CO.SD.ND;
-
-Italy, Italians, ITA, Europe I, 009246, CE2B37, 80, CO, CO.WY;
-
-Ivory Coast, Ivorians, IVORY, Africa I, F77F00, 009E60, 85, NV, NV.ID.UT;
-
-Jamaica, Jamaicans, JAM, North America I, 009B3A, FED100, 75, NV, NV.ID.UT;
-
-Jan Mayen, Jan Mayens, JANMAY, Middle East II, 02529C, FFFFFF, 40, CA, CA; 
-
-Japan, Japanese, JAP, Asia I, E4002B, FFFFFF, 90, UT, UT.ID.WY;
-
-Jersey, Channel Islanders, JERSEY, Europe III, CA0909, FFFFFF, 30, WY, WY.ND.SD.ID;
-
-Jordan, Jordanians, JORDAN, Middle East I, 000000, 007A3D, 40, UT, UT.ID.WY; 
-
-Kazakhstan, Kazakhs, KAZ, Middle East II, 00AFCA, FEC50C, 65, UT, UT.ID.WY;
-
-Kenya, Kenyans, KENYA, Africa I, 000000, BB0000, 25, WA, WA;
-
-Kiribati, Kiribatis, KIRI, Oceania I, CE1126, FCD116, 25, WA, WA; 
-
-North Korea, North Koreans, NOR, Asia I, CE1126, 024FA2, 20, OR, OR;
-
-South Korea, South Koreans, SOU, Asia I, 000000, FFFFFF, 85, UT, UT; 
-
-Kosovo, Kosovars, KOSOVO, Europe III, 244AA5, D0A650, 40, CO, CO;
-
-Kuwait, Kuwaitis, KUWAIT, Middle East II, 000000, 007A3D, 50, CO, CO;
-
-Kyrgyzstan, Kyrgyzstanis, KYR, Middle East I, FF0000, FFFF00, 50, IA, IA.NE;
-
-Laos, Laotians, LAOS, Asia II, CE1126, 002868, 70, NE, NE;
-
-Latvia, Latvians, LAT, Europe III, 9E3039, FFFFFF, 70, ID, ID.WY;
-
-Lebanon, Lebanese, LEB, Middle East I, ED1C24, FFFFFF, 35, ID, ID.WY; 
-
-Lesotho, Basotho, LESO, Africa III, 00209F, 009543, 55, MO, MO;
-
-Liberia, Liberians, LIB, Africa I, 002868, BF0A30, 20, MO, MO.KS;
-
-Libya, Libyans, LIBYA, Africa II, 000000, E70013, 20, ND, ND.SD.MT;
-
-Liechtenstein, Liechtensteiners, LIECHT, Europe III, 002B7F, CE1126, 35, ND, ND.SD.MT;
-
-Lithuania, Lithuanians, LITH, Europe III, FD8913, 006A44, 25, MT, MT.ND.SD; 
-
-Luxembourg, Luxembourgers, LUX, Europe II, 00A1DE, ED2939, 30, MT, MT; 
-
-Macau, Macanese, MACAU, Asia II, 00795E, FFFFFF, 50, SD, SD.ND; 
-
-Madagascar, Malagasy, MAD, Africa I, 007E3A, FC3D32, 40, SD, SD.ND.MT;
-
-Malawi, Malawians, MALAWI, Africa III, 000000, CE1126, 40, IL, IL;
-
-Malaysia, Malaysians, MALAY, Asia I, 010066, FFCC00, 45, IL, IL;
-
-Maldives, Maldivians, MALD, Asia II, 007E3A, D21034, 30, IA, IA; 
-
-Mali, Malians, MALI, Africa II, FCD116, 14B53A, 75, IL, IL;
-
-Malta, Maltese, MALTA, Europe III, CCCCCC, CF142B, 20, OH, OH;
-
-Marshall Islands, Marshallese, MARSHA, Oceania I, 003893, DD7500, 75, OH, OH;
-
-Martinique, Martiniquais, MARTIN, North America III, 21428E, FFFFFF, 40, OH, OH; 
-
-Mauritania, Mauritanians, MAUR, Africa III, 00A95C, D01C1F, 15, OH, OH;
-
-Mauritius, Mauritians, MAU, Africa III, 1A206D, 00A551, 20, MI, MI;
-
-Mayotte, Mahorans, MAYO, Africa III, 171796, D42E12, 15, MI, MI;
-
-Mexico, Mexicans, MEX, North America I, 016848, CE1126, 90, MI, MI;
-
-Micronesia, Micronesians, MICRO, Oceania I, 75B2DD, FFFFFF, 70, IN, IN; 
-
-Moldova, Moldovans, MOLDOV, Europe III, 0046AE, FFD200, 15, IN, IN;
-
-Monaco, Monacans, MONA, Asia II, CE1126, FFFFFF, 65, MI, MI;
-
-Mongolia, Mongols, MONGOL, Asia I, C4272F, 015197, 35, OH, OH;
-
-Montenegro, Montenegrins, MONTE, Europe II, C52126, D4AF3A, 25, OH, OH;
-
-Montserrat, Montserratians, MONTES, North America III, 001F7E, D00C27, 60, OH, OH; 
-
-Morocco, Moroccans, MOROC, Africa I, C1272D, 006233, 80, PA, PA.OH; 
-
-Mozambique, Mozambicans, MOZAM, Africa II, FCE100, 007168, 55, PA, PA;
-
-Myanmar, Myanmars, MYAN, Asia II, 34B233, FFFFFF, 85, OH, OH; 
-
-Namibia, Namibians, NAMI, Africa III, D21034, 003580, 45, MI, MI;
-
-Nauru, Nauruans, NAURU, Oceania I, 002B7F, FFC61E, 30, TN, TN.NC.SC;
-
-Nepal, Nepalis, NEPAL, Asia I, DC143C, FFFFFF, 65, KY, KY;
-
-Netherlands, Netherlanders, NETH, Europe I, 21468B, AE1C28, 75, TN, TN;
-
-New Zealand, New Zealanders, NEWZEA, Oceania I, 00247D, CC142B, 90, TN, TN; 
-
-Nicaragua, Nicaraguans, NICAR, North America II, 0044AA, FFFFFF, 40, VA, VA.DC; 
-
-Niger, Nigeriens, NIGER, Africa II, E05206, FFFFFF, 70, VA, VA;
-
-Nigeria, Nigerians, NIG, Africa I, 008751, FFFFFF, 75, VA, VA;
-
-Northern Ireland, Northern Irish, NIRE, Europe II, CC0000, FFFFFF, 75, VA, VA;
-
-Norway, Norwegians, NOR, Europe II, EF2B2D, 002868, 65, DE, DE.MD.DC;
-
-Oman, Omanis, OMAN, Middle East II, DB161B, FFFFFF, 20, VA, VA;
-
-Pakistan, Pakistanis, PAKI, Middle East I, 01411C, FFFFFF, 75, VA, VA; 
-
-Palestine, Palestinians, PALEST, Middle East II, CE1126, FFFFFF, 75, KY, KY;
-
-Panama, Panamanians, PAN, North America I, D21034, 005293, 70, TN, TN; 
-
-Paraguay, Paraguayans, PARA, South America I, 0038A8, D52B1E, 70, PA, PA;
-
-Peru, Peruvians, PERU, South America I, ED1C24, FFFFFF, 65, VA, VA;
-
-Philippines, Filipinos, PHIL, Asia I, CE1126, 0038A8, 30, MD, MD.DE;
-
-Poland, Polish, POLAND, Europe I, DC143C, FFFFFF, 50, MD, MD.DC;
-
-Portugal, Portuguese, POR, Europe I, FF0000, 006600, 70, MD, MD.DC; 
-
-Puerto Rico, Puerto Ricans, PUERTO, North America I, EF0000, 004EF1, 65, MA, MA.CT; 
-
-Qatar, Qatari, QATAR, Middle East I, 8D1B3D, FFFFFF, 55, ME, ME;
-
-Reunion, Reunionnais, REUN, Africa III, 00AF4F , FFC001, 50, NY, NY;
-
-Romania, Romanians, ROM, Europe II, FCD116, 002B7F, 80, VA, VA;
-
-Russia, Russians, RUS, Europe I, 0039A6, D52B1E, 85, NH, NH.VT;
-
-Rwanda, Rwandans, RWANDA, Africa II, 00A1DE, FAD201, 65, MA, MA;
-
-Saba, Sabans, SABA, North America III, F9DA0E, FFFFFF, 20, MA, MA.RI; 
-
-Saint Barthelemy, Barthelemoises, StBAR, North America III, 1353B4, FF0000, 20, PA, PA.DE.MD.DC;  
-
-Saint Helena, Helenians, StHEL, Africa II, 022169, DC171D, 60, CT, CT.MA;
-
-Ascension and Tristan da Cunha, Saint Helenians, AsTdC, Africa III, 022169, DC171D, 80, NJ, NJ;
-
-Saint Martin, Saint Martinois, StMAR, North America III, 0055A4, EF4135, 15, NY, NY;
-
-Saint Lucia, Saint Lucians, Lucia, North America III, 66CCFF, 000000, 75, RI, RI.CT;  
-
-Saint Kitts and Nevis, Nevisians, StKN, North America III, 000000, CE1126, 65, NH, NH;
-
-Saint Pierre and Miquelon, SaintPierrais, StPM, North America III, 0071BC, EAC102, 15, NY, NY.NJ;
-
-Saint Vincent and the Grenadines, Vincentians, StVG, North America III, 009E60, FCD116, 70, NJ, NJ; 
-
-San Marino, Sammarinese, SANMAR, Middle East II, 5EB6E4, FFFFFF, 35, NY, NY; 
-
-Sao Tome and Principe, Sao Tomeans, STP, Africa II, 12AD2B, D21034, 15, NY, NY;
-
-Saudi Arabia, Saudi Arabians, SAUDI, Middle East I, 006C35, FFFFFF, 60, NY, NY;
-
-Scotland, Scots, SCO, Europe III, 0065BD, FFFFFF, 65, NJ, NJ;  
-
-Senegal, Senegalese, SEN, Africa I, 00853F, FDE442, 70, NJ, NJ;
-
-Serbia, Serbs, SERB, Europe III, 0C4076, C6363C, 55, NY, NY;
-
-Seychelles, Seychelloises, SEYCH, Africa IV, FCD856, D62828, 30, NJ, NJ;
-
-Sierra Leone, Sierra Leoneans, SIERRA, Africa IV, 1EB53A, FFFFFF, 75, NY, NY;
-
-Singapore, Singaporeans, SINGA, Asia I, ED2939, FFFFFF, 70, NY, NY;
-
-Sint Eustatius, Statians, SINTEU, North America III, 008830, FFFFFF, 15, NY, NY;
-
-Sint Maarten, Sint Maarteners, SINTMA, North America III, 0055A4, EF4135, 45, NJ, NJ;
-
-Slovakia, Slovaks, SLOVA, Europe III, 0B4EA2, EE1C25, 75, NY, NY;
-
-Slovenia, Slovenians, SLOVE, Europe III, 0000BF, D50000, 80, NY, NY;
-
-Somalia, Somalis, SOMA, Africa IV, 4189DD, FFFFFF, 35, NY, NY;
-
-Somaliland, Somalilandians, SOMALI, Africa IV, 006D21, 000000, 40, NJ, NJ; 
-
-South Africa, South Africans, SOUAFR, Africa I, 007A4D, 000000, 95, FL, FL;
-
-South Sandwich Islands, South Sandwich Islanders, SSI, South America I, 656263, 00247D, 45, MS, MS;
-
-South Sudan, South Sudanese, SOUSUD, Africa IV, 0F47AF, 000000, 70, FL, FL; 
-
-Spain, Spaniards, SPAIN, Europe I, FFC400, AD1519, 65, AL, AL;
-
-Sri Lanka, Sri Lankans, SRILAN, Asia II, 005641, FF5B00, 80, LA, LA;
-
-Sudan, Sudanese, SUDAN, Africa IV, 007229, D21034, 45, FL, FL; 
-
-Suriname, Surinamers, SURIN, South America I, B40A2D, 377E3F, 50, GA, GA;
-
-Svalbard, Svalbard residents, SVAL, Middle East II, 02529C, FFFFFF, 15, LA, LA; 
-
-Swaziland, Swazis, SWAZ, Africa IV, 000000, FFFFFF, 25, SC, SC;
-
-Sweden, Swedes, SWE, Europe I, 006AA7, FECC00, 60, SC, SC;
-
-Switzerland, Swiss, SWI, Europe I, FF0000, FFFFFF, 55, NC, NC; 
-
-Syria, Syrians, SYRIA, Middle East I, CE1126, 000000, 30, NC, NC; 
-
-Tajikistan, Tajiks, TAJIK, Middle East I, CC0000, FFFFFF, 25, SC, SC;
-
-Tanzania, Tanzanians, TANZA, Africa IV, 1EB53A, 00A3DD, 65, SC, SC;
-
-Thailand, Thai, THAI, Asia I, 2D2A4A, A51931, 40, NC, NC;
-
-Timor Leste, Timorese, TIMOR, Asia II, 000000, DC241F, 25, NC, NC; 
-
-Togo, Togolese, TOGO, Africa IV, FFC300, 006A4E, 20, TX, TX;
-
-Trinidad and Tobago, Trinidadians, TT, North America I, DA1A35, 000000, 20, TX, TX;
-
-Tunisia, Tunisians, TUN, Africa I, E70013, FFFFFF, 90, TX, TX;
-
-Turkey, Turks, TURKEY, Middle East I, E30A17, FFFFFF, 95, TX, TX;
-
-Turkmenistan, Turkmens, TURK, Middle East II, 28AE66, CA3745, 45, TX, TX; 
-
-Turks and Caicos Islands, Turks and Caicos Islanders, TCI, North America II, FCD20E, 9F5302, 30, TX, TX;
-
-Uganda, Ugandans, UGANDA, Africa IV, 000000, FCDC04, 60, TX, TX; 
-
-Ukraine, Ukrainians, UKR, Middle East I, 005BBB, FFD500, 65, AZ, AZ;
-
-United Arab Emirates, Emiratis, UAE, Middle East I, 00732F, FFFFFF, 70, TX, TX;
-
-United States of America, Americans, USA, North America I, 00008B, FF0000, 95, UT, UT.AZ; 
-
-Uruguay, Uruguayans, URU, South America I, 0038A8, FFFFFF, 75, AZ, AZ.UT; 
-
-Uzbekistan, Uzbeks, UZEB, Middle East I, 0099B5, FFFFFF, 20, OK, OK;
-
-Vatican City, Vaticans, VATICA, Asia II, FFE000, FFFFFF, 60, TX, TX;
-
-Venezuela, Venezuelans, VENE, South America I, FFCC00, 00247D, 40, AR, AR;
-
-Vietnam, Vietnamese, VIET, Asia I, DA251D, FFFF00, 80, NM, NM.AZ;
-
-British Virgin Islands, British Virgin Islanders, BVI, North America II, D00C27, 001F7E, 70, NM, NM.AZ; 
-
-US Virgin Islands, US Virgin Islanders, USVI, North America II, F4C63B, 0083C7, 75, CA, CA;
-
-Wales, Welsh, WALES, Europe III, D21034, 00AB39, 60, CA, CA;  
-
-Yemen, Yemenis, YEMEN, Middle East II, CE1126, 000000, 70, CA, CA;
-
-Zambia, Zambians, ZAMBIA, Africa IV, 198A00, EF7D00, 50, CA, CA;
-
-Zimbabwe, Zimbabweans, ZIMBAB, Africa IV, DE2010, FFC618, 55, CA, CA;
-
-Netherlands Antilles, Antillians, NANT, North America II, 012A87, FFFFFF, 65, CA, CA; 
-
-Navassa Islands, Navassans, NAVA, North America II, 012A87, 00AD36, 25, CA, CA; 
-
-FD Venezuela, Venezuelans, FDVEN, North America II, FFC00, 00247D, 20, CA, CA;
-
-Nueva Esparta, Espartans, NUEVA, North America II, FFCC01, 008033, 15, CA, CA;
-
-South Georgia, South Georgians, SGEO, South America I, 656263, 00247D, 55, CA, CA; 
-
-Canary Islands, Canary Islanders, CANARY, Africa IV, 0768A9, F8D600, 20, CA, CA;
-
-Ceuta, Cuetans, CEUTA, Africa IV, 000000, FFFFFF, 15, CA, CA; 
-
-Madeira, Madeirans, MADE, Africa IV, 005EB8, FFE900, 15, CA, CA;
-
-Northern Cyprus, Northern Cypriots, NCY, Middle East II, E30A17, FFFFFF, 25, CA, CA;
-
-Sahrawi, Sahrawians, SAHRAW, Africa IV, C4111B, 007A3D, 20, CA, CA;
-
-Samoa, Samoans, SAMOA, Oceania I, 002B7F, CE1126, 65, CA, CA; 
-
-Tonga, Tongans, TONGA, Oceania I, C10000, FFFFFF, 35, CA, CA; 
-
-Papua New Guinea, New Guineans, PAPUA, Oceania I, CE1126, 000000, 40, CA, CA;
-
-Tibet, Tibetans, TIBET, Asia II, 240D70, DB2014, 20, CA, CA.NV; 
+Storrs, (CT) Danes, STRR, Northeast, ac7339, DDC3A5, 89, CT, CT;
+Independence, (PA) Stags, INDE, Northeast, 0000ff, ff0000, 95, PA, PA;
+RICAMA, (RI) Rooks, RICAMA, Northeast, 36454F, BC6C25, 36, RI, RI;
+Rhode Island, (RI) Classics, RISL, Northeast, 3E6680, ffffff, 73, RI, RI;
+Diocesan Hall, (NJ) Seawolves, DIO, Northeast, 004d4d, 9E7a2c, 87, NJ, NJ;
+Hamlet, (NY) Missiles, HAM, Northeast, 4B4237, D5A021, 57, NY, NY;
+District of Columbia, (DC) Drivers, DOC, Northeast, 041E42, 8D817B, 90, DC, DC.VA;
+Queens Catholic, (NY) Creed, QUEENS, Northeast, 2d8659, 8c8c8c, 60, NY, NY.NJ;
+Strangeworth, (VT) Precision, VSAC, Northeast, 33334d, 800000, 46, VT, VT;
+Copper City, (CT) Provisioneers, MTWA, Northeast, b87333 , ffffff, 54, CT, CT;
+Boston Harbor, (MA) Beasts, BEAST, Northeast, 800000, 001a4d, 55, MA, MA;
+Lower Brooklyn, (NY) Hammerheads, LBKY, Northeast, 61B2F4, F4A361, 62, NY, NY;
+Virginia Beach, (VA) Conquistadors, VIRB, Northeast, E31837, 333f48, 60, VA, VA;
+Granite Baptist, (NH) Stones, GBAP, Northeast, 522D80, FB8D19, 41, CT, CT;
+Ambridge, (PA) Mestizos, AMB, Northeast, B85042, A7BEAE, 57, PA, PA.DC;
+Yonkers-Hudson, (NY) Challengers, YOHU, Northeast, EED971, ffa351, 65, NY, NY.VT;
+Miami Coast, (FL) Archers, MICO, Atlantic, 065535, 522D80, 75, FL, FL;
+Lexington & Concord, (MA) Minutemen, BC, Atlantic, 2F4857, BC9B6A, 58, MA, MA;
+Tallahassee, (FL) Bolts, TALL, Atlantic, 262626, 4F5AFD, 69, FL, FL;
+New South, (SC) Wildcats, NSO, Atlantic, 5c6f0e, FB8D19, 61, SC, SC, NC;
+Blocksburg, (VA) Barbarians, BLOCK, Atlantic, 0000ff, 9494b8, 71, VA, VA;
+Steel City, (VA) Blades, STEEL, Atlantic, 1C2957, 585b10, 57, PA, PA;
+Charlottesville, (VA) Chippers, CTVL, Atlantic, 232D4B, F84C1E, 95, VA, VA;
+Interstate 81, (NY) Foxes, I81, Atlantic, D44500, 9a7b4f, 80, NY, NY;
+Atlanta Technological, (GA) Stingers, ATLT, Atlantic, 4a4e69, cc9900, 63, GA, GA;
+KYC Louisville, (KY) Strikers, LVL, Atlantic, 333333, AD0000, 82, KY, KY;
+Camel City, (NC) Camels, CACY, Atlantic, c68c53, 66b3ff, 70, NC, NC;
+Durham, (NC) Defenders, DUR, Atlantic, 006699, FFFFFF, 95, NC, NC;
+Chapel Hill, (NC) Shadows, CHILL, Atlantic, 778ba5, ffffff, 95, NC, NC;
+Wheeling, (WV) Wolfpack, WHEEL, Atlantic, 5880b3, 2F4857, 76, WV, WV;
+Commonwealth, (VA) Goats, CMW, Atlantic, 666633, ffffff, 65, VA, VA.WV;
+N&S Carolinas, (NC) Brigadiers, NSCA, Atlantic, FB8D19, B05923, 54, NC, NC;
+Champaign, (IL) Supernovas, CHAMP, Midwest, EE964B, 0D3B66, 71, IL, IL;
+Bay City, (MI) Trout, BAY, Midwest, bbc2ac, BFD7EA, 61, MI, MI.WI;
+North Indy, (IN) Steamers, INDY, Midwest, a77b0c, 333333, 80, IN, IN;
+Indy, (IN) Olympians, IDYO, Midwest, 6699ff, E03A3E, 77, IN, IN;
+East Lansing, (MI) Austeres, ELAN, Midwest, 826251, 568EA3, 88, MI, MI;
+Kerrytown, (MI) Conflict, KERRY, Midwest, EE4E34, FCEDDA, 85, MI, MI.IN;
+Superior, (WI) Rebels, SUP, Midwest, 3E43C1, C13E43, 82, WI, WI.IL.MN;
+Minneapolis, (MN) Walleyes, MNP, Midwest, 2FD0CB, ffffff, 72, MN, MN.ND.SD;
+Lincoln, (NE) Cornheads, LINC, Midwest, e6b800, cc0000, 70, NE, NE.IA;
+Virginia-Lake, (MN) Gophers, VILA, Midwest, 3E682C, 68562C, 42, MN, MN;
+Our Lady, (IN) Combattants, OL, Midwest, 0C2340, C99700, 76, IN, IN.MI.IL;
+Middletown, (NJ) Hawkshaws, MTOWN, Midwest, 616D9E, 9E9261, 46, NJ, NJ;
+Des Moines, (IA) Goldfinches, DEMO, Midwest, E0A96D, CC313D, 70, IA, IA;
+Keystone, (PA) P’s, KEYS, Midwest, 093162, FFFFFF, 58, PA, PA.OH;
+Harley & Davidson, (WI) Roadsters, HND, Midwest, 003366, ff6600, 56, WI, WI;
+College Park, (MD) TerraTurtles, COPA, Midwest, E03A3E, FFD520, 74, MD, MD.DE.DC;
+Murfreesboro, (TN) Marauders, MFB, Valley, 0066CC, 000000, 72, TN, TN;
+St. Louis, (MO) Scouts, SLU, Valley, cdb599, 42eadd, 62, MO, MO.IL;
+Bishop Sycamore, (OH) Centurions, BISY, Valley, 333333, ff0000, 49, OH, OH;
+North Southern, (IN) Nightmare, NOSO, Valley, 003366, 606060, 79, IN, IN;
+Omaha, (NE) Jays, OMA, Valley, 0099cc, fdba21, 69, NE, NE;
+Memphis, (TN) Crusaders, MEM, Valley, 5c374c, 898D8D, 72, TN, TN.KY;
+Coal Town, (IN) Colliers, COAL, Valley, 262626, AEB1BD, 77, IN, IN.KY;
+Xenia, (OH) Exers, XEN, Valley, 79A7D3, 657064, 72, OH, OH.KY;
+KYC Portland, (KY) Colonels, PORT, Valley, cc0000, FFFFFF, 56, KY, KY.TN;
+OTR District, (OH) Wild Boars, OTR, Valley, 9b2226, ca6702, 78, OH, OH.KY;
+Sunflower State, (KS) Shockers, SUNS, Valley, FFCD00, 000000, 71, KS, NE.KS;
+Zeal Land, (IL) Zaps, ZEAL, Valley, 47476b, FEBD18, 54, IL, IL;
+Industry Middle, (IL) Minotaurs, IMID, Valley, 00539C, EEA47F, 42, IL, IL;
+Peoria, (IL) Shields, PEO, Valley, EAD94C, 3B3561, 33, IL, IL;
+East West Virginia, (WV) Justice, EWV, Valley, 00B140, A2AAAD, 25, WV, WV.PA;
+Terre Haute, (IN) Havoc, TEHA, Valley, 1a1a1a, 339966, 39, IN, IN;
+Johnson, (TX) Lonestars, JOHN, South, 00296b, FECB00, 75, TX, TX;
+Ames Institutional, (IA) Aftershock, AMES, South, 404040, F1BE48, 74, IA, IA;
+K-County, (KS) K’s, KCO, South, de214a, 457cd3, 93, KS, KS.MO;
+Emporia, (KS) Commandeers, EMP, South, 32321a, 3939ac, 76, KS, KS;
+Stillwater, (OK) Scorchers, SWAT, South, 2265DD, ffffff, 73, OK, OK.TX;
+Lafayette North, (OK) Bang, LANO, South, 002654, ED2939, 70, OK, OK;
+Fort Worth Christian, (TX) Sabertooths, FWC, South, ff9900, FCE77D, 69, TX, TX;
+Orleans, (LA) Jazz, ORLE, South, e67300, 4831D4, 72, LA, LA.OK;
+Austin, (TX) Masked Raiders, AUS, South, CC0000, 00004d, 88, TX, TX;
+West Virginia, (WV) Climbers, WVIR, South, 00cc99, EAAA00, 73, WV, WV.VA;
+El Paso, (TX) Heatwave, ELPA, South, DB3A34, FFC857, 46, TX, TX.NM;
+Wisdom, (OK) Typhoon, WSDM, South, E3B448, 666699, 52, OK, OK;
+Waco, (TX) Champions, WACO, South, 003300, CBD18F, 74, TX, TX;
+Dallas Methodist, (TX) Martyrs, DMET, South, 000066, 808080, 65, TX, TX;
+Basket Race, (LA) Protecteurs, BARA, South, CE181E, F18C21, 52, LA, LA;
+Ruston Polytechnic, (LA) Serpents, RUS, South, 009900, 000092, 43, LA, LA;
+Eugene, (OR) Ducks, EUG, Pacific, 62A70F, DC4405, 82, OR, OR;
+Beaver State, (OR) Beavers, CRV, Pacific, A47449, 18100a, 60, OR, OR;
+Boulder, (CO) Boulders, BOU, Pacific, CFB87C, 0066ff, 64, CO, CO;
+Beehive, (UT) Bumblers, BHC, Pacific, cc9900, 4d4d4d, 70, UT, UT.WY.ID;
+Phoenix, (AZ) Firebirds, PHX, Pacific, 990033, e65c00, 90, AZ, AZ;
+Grand Canyon, (AZ) Beams, GRC, Pacific, 8C1D40, FFC627, 67, AZ, AZ;
+Golden Gate, (CA) Gatekeepers, GG, Pacific, 002642, e59500, 65, CA, CA;
+West Hollywood, (CA) Seekers, WHOL, Pacific, 77ccff, F2A900, 89, CA, CA.HI;
+Los Angeles, (CA) Gothams, LACO, Pacific, 19194d, 19194d, 85, CA, CA.HI.AK;
+Eastwood, (CA) Bandits, EAST, Pacific, 414a4c, cc6666, 71, CA, CA.HI;
+Tri-Cities, (WA) Aeronauts, TRI, Pacific, 3333cc, B7A57A, 73, WA, WA;
+Spokane, (WA) Sonics, SPO, Pacific, 00653A, FFC200, 75, WA, WA.AK;
+Juneau Borough, (AK) Huskies, JUNE, Pacific, 757575, 000000, 37, AK, AK;
+Oahu, (HI) Islanders, OAHU, Pacific, 0066ff, 1df914, 49, HI, HI;
+Pacific Polytechnic, (WA) Robots, PACT, Pacific, 041E42, C8102E, 27, WA, WA.AK;
+San Diego, (CA) Sails, SDG, Pacific, 004d00, 06315B, 80, CA, CA;
+Florida, (FL) Ironmen, FLO, Southeast, 336699, cc6600, 94, FL, FL;
+Athens, (GA) Spartans, ATH, Southeast, 002642, e59500, 64, GA, GA;
+Secretariat, (KY) Riders, SECR, Southeast, BD7F37, A13941, 50, KY, KY.TN;
+Mizzouri, (MO) Wildlife, MIZZOU, Southeast, F1B82D, 000000, 70, MO, MO;
+Subtropica Southern, (SC) Darts, SC, Southeast, B0DB43, 12EAEA, 59, SC, SC;
+Big Bend, (TN) Bowlers, BEND, Southeast, ff8600, FFFFFF, 87, TN, TN;
+Cornelius, (AL) Commodores, CORNY, Southeast, 866D4B, 000000, 73, AL, AL;
+Sweet Home, (AL) Descendants, BAMA, Southeast, 993333, 000000, 67, AL, AL.MS;
+Ozark Mountains, (AR) Razors, OZAM, Southeast, 696773, 009FB7, 61, AR, AR.KS;
+Red Brown, (AL) Rivals, RBR, Southeast, B71C1C, 6D4C41, 85, AL, AL.MS;
+Iberville, (LA) Batons, IBER, Southeast, B2554D, 79C000, 77, LA, LA.MS;
+New Hit, (MS) Rebellion, HIT, Southeast, 13294B, C8102E, 60, MS, MS.AL;
+Valor & Arms, (MS) Bowmasters, VALOR, Southeast, 660000, 003300, 92, MS, MS.AL.LA;
+College Station, (TX) Inquisitors, CSTA, Southeast, 660000, 000066, 73, TX, TX;
+Puerto Rico, (PR) Próspero, PURI, Southeast, 000000, CFC493, 26, PA, PA;
+Orange County, (FL) Gators, OCFL, Southeast, 006747, 827717, 52, FL, FL;
+Albertson, (ID) Taters, ALBE, Mountain, 0051a1, 009fe3, 53, ID, ID.MT;
+Death Valley, (CA) Troopers, DEATH, Mountain, B00000, 0000B0, 39, CA, CA.CO;
+Greeley & Weld, (CO) Ursuses, GRWE, Mountain, 006747, E95C20, 58, CO, CO.WY;
+Reno, (NV) Hyenas, RENO, Mountain, 000000, 807F84, 78, NV, NV.ID.UT;
+Sin City, (NV) Highrollers, UNLV, Mountain, B10202, ffffff, 72, NV, NV.ID.UT;
+Hog Mountain, (CA) War Pigs, HMT, Mountain, 666666, ffc000, 25, CA, CA;
+Tech Logan, (UT) U’s, TLOG, Mountain, 0F2439, 9D968D, 65, UT, UT.ID.WY;
+Laramie, (WY) Outlaws, LARA, Mountain, FFC425, 492F24, 81, WY, WY.ND.SD.ID;
+Salt Lake Mormon, (UT) 75ers, PUT, Mountain, 002255, C5AF7D, 60, UT, UT.ID.WY;
+Ogden, (UT) Orions, OGD, Mountain, 492365, 575047, 48, UT, UT.ID.WY;
+Spire Peak Mountain, (WA) Cats, SPM, Mountain, 669499, 856699, 38, WA, WA;
+North Pole, (AK) Aurora, NPC, Mountain, BF2E1A, 231F20, 27, AK, AK.WA;
+Rip City, (OR) Rippers, RIP, Mountain, 343a40, CA054D, 34, OR, OR.SD.ND;
+Orem Valley, (UT) Wolvers, ORV, Mountain, 275D38, 333333, 46, UT, UT;
+Denver Technological, (CO) Pioneers, DEN, Mountain, 98002E, AA976C, 33, CO, CO;
+Fort Collins, (CO) C’s, FCO, Mountain, 272727, 90A9B7, 40, CO, CO;
+Hooverville, (IA) Heroes, HOV, Plains, 004477, 362023, 50, IA, IA.NE;
+Aksarben, (NE) Crushers, AKS, Plains, D71920, 333333, 32, NE, NE;
+Idaho Falls, (ID) Bruisers, IDFA, Plains, B3A369, 808080, 44, ID, ID.WY;
+Gem State, (ID) Gems, GEM, Plains, 5130CF, 30CFA1, 27, ID, ID.WY;
+Springfield, (MO) Atoms, SPR, Plains, 2e4155, 000000, 49, MO, MO;
+Fountain City, (MO) Freedom, FCTY, Plains, 005486, FFD204, 42, MO, MO.KS;
+Motor City, (ND) Motors, MC, Plains, 6E8898, D3D0CB, 26, ND, ND.SD.MT;
+Fargo, (ND) Bison, FND, Plains, 0A5640, FFC72A, 38, ND, ND.SD.MT;
+Mountainside, (MT) Warthogs, MONT, Plains, 5E001D, 8C8E90, 47, MT, MT.ND.SD;
+Subdivision SS, (MT) Snakes, SDS, Plains, 00205B, B9975B, 34, MT, MT;
+South Dakota, (SD) Elk, SD, Plains, 996600, 231F20, 35, SD, SD.ND;
+Vermillion, (SD) Coyotes, VSD, Plains, 273043, 9197AE, 56, SD, SD.ND.MT;
+DeKalb, (IL) Kingfishers, DEK, Plains, 498EB6, ffffff, 36, IL, IL;
+Carbondale, (IL) Chemicals, CARB, Plains, 99C75B, 7EBDC3, 39, IL, IL;
+Iowisconsota, (IA) Fusion, IOWS, Plains, 669bbc, 6670BC, 63, IA, IA.WI.MN;
+Second City, (IL) Zephyrs, SEC, Plains, 434352, dc814e, 43, IL, IL;
+Ohio Institutional, (OH) Oasis, OHIO, Lakes, 0000ff, CDA077, 61, OH, OH;
+Clevelandia, (OH) Courage, CLIA, Lakes, 404040, 709176, 83, OH, OH;
+Freddie Frieda, (OH) Avengers, FRFR, Lakes, FE5000, 4F2C1D, 65, OH, OH;
+Miami of the Midwest, (OH) Sharks, MOTM, Lakes, 6C4023, B5A167, 35, OH, OH;
+Ypsilanti, (MI) Pacemakers, YPS, Lakes, 006600, FFFFFF, 55, MI, MI;
+Houghton, (MI) Clashers, DET, Lakes, 3399ff, 99ffcc, 76, MI, MI;
+Midwestern, (MI) Millions, MICH, Lakes, 006633, 262626, 52, MI, MI;
+Muncie, (IN) Mayors, MUN, Lakes, BA0C2F, 000000, 37, IN, IN;
+Fort Wayne, (IN) Fuelers, IPFW, Lakes, 002F6C, 63666A, 34, IN, IN;
+Kalamazoo, (MI) Kazoos, KMZ, Lakes, ff0000, 38AECC, 35, MI, MI;
+Wapakoneta, (OH) Torpedos, WAP, Lakes, 999999, 669999, 46, OH, OH;
+Orville & Wilbur, (OH) Flyers, OW, Lakes, 741B47, CEA052, 70, OH, OH;
+3 Rivers Park, (PA) Princes, 3RP, Lakes, 3d0099, cc9900, 78, PA, PA.OH;
+Township, (PA) Moons, TOWN, Lakes, 000000, 444444, 34, PA, PA;
+Columbus, (OH) Tyrants, COLUM, Lakes, 041E42, A89968, 56, OH, OH;
+Metropolis, (MI) Renegades, MET, Lakes, 2A2D34, 30C5FF, 71, MI, MI;
+Grand Tennessee, (TN) Vipers, GTEN, Appalachian, 339966, FFC72C, 45, TN, TN.NC.SC;
+Boonesborough, (KY) Whispering Wind, BBO, Appalachian, 333333, 333333, 28, KY, KY;
+Green Hills, (TN) Machines, GHIL, Appalachian, 331E54, 1f601f, 66, TN, TN;
+Continental BC, (TN) Troupers, CBC, Appalachian, 687297, 976872, 60, TN, TN;
+Fairfax, (VA) Force, FAX, Appalachian, 80bfff, FFFFFF, 46, VA, VA.DC;
+Frankfort, (PA) Flames, FFO, Appalachian, ECB413, EC4713, 43, VA, VA;
+Jefferson, (VA) Patrioteers, JEFF, Appalachian, 2A2D34, 8FB8ED, 40, VA, VA;
+South Boston, (VA) Golden Horde, SOB, Appalachian, 660010, 333399, 29, VA, VA.DE;
+Joe Biden, (DE) Blues, JOE, Appalachian, 00539F, 00539F, 33, DE, DE.MD.DC;
+Wyatt & Molly, (VA) Tribe, WNM, Appalachian, 862d2d, CC9900, 64, VA, VA;
+Roanoke, (VA) Voyagers, ROA, Appalachian, 450084, CBB677, 34, VA, VA;
+Highland Heights, (KY) Highlanders, HHE, Appalachian, 5B70A4, 5BA48F, 36, KY, KY;
+County Junction, (TN) Battlers, CJUN, Appalachian, 686963, 424b54, 31, TN, TN;
+Freemansburg, (PA) Mountain Lions, BATT, Appalachian, A56A19, D18720, 39, PA, PA;
+Hidden Ivy, (VA) Arachnids, HID, Appalachian, 001032, 990000, 43, VA, VA;
+Maryland Atlantic, (MD) Bullets, MRD, Appalachian, fe6d73, ffcb77, 35, MD, MD.DE;
+Pine Tree State, (ME) Recruits, PTS, Patriot, 0D160B, 5C946E, 33, ME, ME.MD.DC;
+Annapolis NA, (MD) Skippers, ANNA, Patriot, 131630, FCBA29, 36, MD, MD.DC;
+Lower New England, (MA) Navigators, LNE, Patriot, 000066, C8102E, 59, RI, RI.CT.MA;
+Upper New England, (ME) Nitros, UNE, Patriot, 000066, B0D7FF, 59, ME, ME;
+West Point, (NY) Soldiers, WPNT, Patriot, D4BF91, B2B4B3, 41, NY, NY;
+Thurgood, (VA) Brave, THUR, Patriot, 007A53, F3D03E, 47, VA, VA;
+Central New England, (NH) Nightingales, CNE, Patriot, 000066, BBBCBC, 59, NH, NH.VT.MA;
+Satellite, (MA) Martians, SAT, Patriot, 008825, 250088, 36, MA, MA;
+Harvardia, (MA) Elites, HARV, Patriot, A41034, 000000, 23, MA, MA.RI;
+A&CSPPA, (PA) Quakes, PENN, Patriot, 525174, 5dd39e, 58, PA, PA.DE.MD.DC;
+New Haven, (CT) Paragons, NHAV, Patriot, 348aa7, FFFFFF, 51, CT, CT.MA;
+The Gardens, (NJ) Waggoneers, GARD, Patriot, A5C882, 000000, 48, NJ, NJ;
+Green Mountain, (VT) Mountaineers, GMNT, Patriot, 669900, 5E3920, 42, VT, VT;
+Providence, (RI) Pact, PRV, Patriot, 4E3629, 7C2529, 37, RI, RI.CT;
+New Vershire, (NH) Big Green, NVER, Patriot, 046A38, 000000, 39, NH, NH.VT;
+Sleepless City, (NY) Towers, SLCY, Patriot, 0E0E52, 0E0E52, 40, NY, NY.NJ;
+Exit State, (NJ) Carnage, EXIT, Empire, 000000, 21FA90, 20, NJ, NJ;
+Old Line, (MD) Atlantics, OLINE, Empire, 999966, 16243E, 51, MD, MD;
+Big Apple Catholic, (NY) Venturers, BAC, Empire, cc0000, 54261A, 40, NY, NY;
+Poughkeepsie, (NY) Firefoxes, PHK, Empire, 403d39, eb5e28, 75, NY, NY;
+Hackensack, (NJ) Bronchos, HACK, Empire, 006666, 006666, 45, NJ, NJ;
+Bronx, (NY) Broncs, BRX, Empire, 000000, cc6600, 50, NY, NY;
+New York City, (NY) Wolves, NYC, Empire, 715863, 000000, 70, NY, NY;
+St. Patrick’s, (NJ) Peacocks, STPA, Empire, 00cc00, 0066ff, 28, NJ, NJ;
+Historic New Castle, (DE) Warlocks, HNC, Empire, 5C80BC, 3D3B30, 33, DE, DE;
+Colgate, (NY) Rushers, COLG, Empire, 0066ff, E10028, 28, NY, NY;
+East Coast, (NY) Coasters, ECOA, Empire, FFC72C, 006747, 71, NY, NY;
+Manhattan Heights, (NY) Dreamers, MANH, Empire, 27187e, 27187e, 70, NJ, NJ.NY;
+Donald Trump, (NY) Reds, DTP, Empire, C8102E, C8102E, 33, NY, NY;
+Niagara Falls, (NY) Razzmics, NIA, Empire, 582C83, 6666ff, 24, NY, NY;
+Staten Island, (NY) Seadogs, SISL, Empire, 008080, bf8040, 35, NY, NY;
+Long Island, (NY) Seahorses, LISL, Empire, 6D926E, 926D91, 35, NY, NY;
+Fort Myers Gulf Coast, (FL) Sea Eagles, FMGC, Gulf, 007749, 002D72, 78, FL, FL;
+Mississippiania, (MS) Mud-Cats, MISS, Gulf, 993333, 996633, 61, MS, MS;
+Boca Raton, (FL) Otters, BOCA, Gulf, 475F81, 816947, 68, FL, FL;
+ALA Jacksonville, (AL) Blasters, ALAJ, Gulf, E31937, FFFFFF, 34, AL, AL;
+Bayou, (LA) Bashers, BAYOU, Gulf, 011936, 7C878E, 80, LA, LA;
+Jupiter, (FL) Leatherbacks, JUP, Gulf, 8ac926, 645E9D, 54, FL, FL;
+Tech Evening, (GA) Runaways, TEVE, Gulf, 0039A6, C60C30, 42, GA, GA;
+Lafayette Court, (LA) Tide, LAFA, Gulf, 418FDE, 006747, 85, LA, LA;
+Spartanburg, (SC) Gladiators, SPA, Gulf, FFD700, 000000, 77, SC, SC;
+Golden Isles, (GA) G’s, GISL, Gulf, 0080C6, FFC20E, 42, GA, GA;
+Old North, (NC) Legends, ONOR, Gulf, 252627, 564E58, 41, NC, NC;
+Williard Billiam, (NC) Paladins, WB, Gulf, 0F2044, 1a1a1a, 90, NC, NC;
+Travelers Rest, (SC) Interlopers, TRAV, Gulf, f6aa1c, 996633, 50, SC, SC;
+Palmetto, (SC) Pillagers, PALM, Gulf, 2D0320, a4bcc2, 89, SC, SC;
+Tar Heel State, (NC) Fighters, THS, Gulf, 465362, 021E40, 87, NC, NC;
+Boiling Springs, (NC) Alloys, BSPR, Gulf, BF2F37, F5851F, 40, NC, NC;
+Denton, (TX) Destroyers, DENT, Southwest, 00853E, 000000, 61, TX, TX;
+Ghost Town, (TX) Ghouls, GHOST, Southwest, 564D65, 3E8989, 46, TX, TX;
+Houston Southern, (TX) Tigers, HOSO, Southwest, 2E382E, ff7d00, 35, TX, TX.CA;
+Little Rock, (AR) Kodiaks, LROC, Southwest, cd7f32, 72A1E5, 36, AR, AR;
+Flagship, (TX) Venom, FLAG, Southwest, D50032, FFFFFF, 32, TX, TX;
+University Drive, (TX) Dozers, UDR, Southwest, 5F4B8B, E69A8D, 40, TX, TX;
+Texington, (TX) Thrashers, TEXI, Southwest, F58025, 0064B1, 46, TX, TX;
+Goodyear, (AZ) Wingmen, GY, Southwest, 522398, 000000, 54, AZ, AZ;
+Quinoa, (TX) Badgers, QUIN, Southwest, 664147, 2f9c95, 43, TX, TX;
+Cedar, (UT) Thunderbolts, CEDAR, Southwest, 1a75ff, 050607, 45, UT, UT.AZ;
+Arizona City, (AZ) Scorpions, ARZO, Southwest, 330066, FFFFFF, 37, AZ, UT.AZ;
+Old Western, (OK) Oaters, OLD, Southwest, 000000, FFFFFF, 29, OK, OK.AR;
+Commonplace, (NM) Prairie Dogs, COM, Southwest, 6A5638, 000000, 42, NM, NM.TX;
+New Arklahoma, (AR) Dingoes, NAO, Southwest, ED1B2E, 231F20, 50, AR, AR;
+Albuquerque, (NM) Rancheros, QUERQ, Southwest, 861F41, 666633, 62, NM, NM.AZ;
+Las Cruces, (NM) Diablos, LAS, Southwest, 008BFF, FF7400, 46, NM, NM.AZ;
+Buenaventura, (CA) Shells, BVEN, Golden, D2b48c, cc5200, 46, CA, CA;
+Irvine, (CA) Anteaters, IRV, Golden, 0C2340, FFC72C, 50, CA, CA;
+Laughlin, (NV) Punters, LAU, Golden, 003660, 000000, 31, NV, NV;
+San Luis Obispo, (CA) Dark Horses, SLO, Golden, 3939ac, 996633, 53, CA, CA;
+Adaven, (NV) Spades, ADAV, Golden, 999999, cc3300, 38, NV, NV;
+Northridge-Valley, (CA) Toros, NORI, Golden, 800000, 2c2e3e, 19, CA, CA;
+Granada Hills, (CA) Pack, GHILL, Golden, 004d00, B38F4F, 41, CA, CA;
+Bullhead City, (AZ) Dynamite, BULL, Golden, e65c00, cc0000, 54, AZ, AZ.CA;
+West Coast, (CA) Riptide, WCOA, Golden, FFC72A, 000000, 67, CA, CA;
+Lotusville, (CA) Whirlpool, LOTUS, Golden, 006699, ff8200, 58, CA, CA;
+Southland, (CA) Vaqueros, SOLA, Golden, bf2e21, FDBB30, 58, CA, CA;
+Beverly Hills, (CA) Magnates, BEV, Golden, 561d5e, 1D455E, 48, CA, CA;
+El Dorado, (CA) Prospectors, ELDO, Golden, 262626, C4B581, 30, CA, CA;
+Palm Desert, (CA) Vigilantes, PDES, Golden, F58026, 003A72, 72, CA, CA;
+Maui, (HI) Sea Turtles, MAUI, Golden, F47820, 006600, 39, HI, HI.AZ;
+Paradise, (HI) Seals, PARA, Golden, 548db5, be9c77, 75, HI, HI.FL.CA;
